@@ -1,0 +1,12 @@
+Variables: sirven parar guardar algún dato en un lugar y poder usarlo cuando quiera las veces que quiera. 
+Se asocian a un nombre y se guardan en la memoria.
+Strings: es un hilo o cadena de caracteres que está delimitado por comillas (dobles o simples). Son datos.
+Funciones (argumentos, return): son acciones que agrupan código y podemos invocar cuando necesitemos. 
+A las funciones se le pueden asignar parámetros, los argumentos representan el valor puedo indicarle dentro de esos
+parámetros al llamar (invocar) a la función.
+Return es una palabra clave utilizada para devolver los valores resultantes de nuestra función. Con return se termina
+de ejecutar la función. El código que siga luego de la palabra return dentro de la función no será tenido en cuenta.
+Declaraciones 'if': son condicionales que devuelven true o false. Se escribe if(x){y}, donde la "x" es la expresión 
+a evaluar si es verdadera o falsa y la "y" el código a ejecutar de ser true. El control de flujo indica cómo ejecutar las
+las declaraciones (por default de izquierda a derecha y de arriba a abajo).
+Valores booleanos (true, false): son tipos de datos nativos de JS que pueden ser verdaderos o falsos.

@@ -1,0 +1,9 @@
+For: Es código para no repetirnos cada vez que queramos hacer una tarea.
+Sirve para hacer tareas repetitivas, nos ayuda a repetir un bloque de código muchas veces.
+Es una función que se va a ejecutar en bucle hasta que la expresión condicional (condición de parada) sea false.
+Declaramos una variable, le asignamos una condición de parada y le decimos que se vaya incrementando en cada bucle
+hasta alcanzar la condición de parada.
+&&, ||, !: Son operadores lógicos, como los operadores matemáticos pero para tipo de datos booleanos.
+&& es "and" y significa que devuelve true solo cuando ambas expresiones evaluadas sean true.
+|| es "or" y significa que devuelve true cuando cualquier de las expresiones sea true.
+! es "NOT" y significa que devuelve el valor booleano contrario a la expresión.

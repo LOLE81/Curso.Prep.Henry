@@ -1,0 +1,5 @@
+Arrays: Son listas de elementos. Esos elementos dentro de la lista pueden ser 
+cualquier tipo de dato (strings, números, booleanos, etc.)
+Podemos declarar los elementos al momento de definir la lista (forma literal), o crear
+un arreglo vacío para luego y trabajando con él. 
+Existen métodos/funciones para ir interactuando con la lista (ejemplos: .push, .pop, etc).

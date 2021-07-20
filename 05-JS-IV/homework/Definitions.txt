@@ -1,0 +1,15 @@
+Objetos: Los objetos son una colección de propiedades, decimos que son propiedades lo que asociamos entre
+un nombre (key) y un valor (value). Pueden tener mucha información sobre una sola cosa.
+Son contenedores de datos relacionados y funcionalidades.
+Propiedades: son lo que asociamos entre un nombre y un valor. Un objeto puede contener todo tipo de datos
+como strings, números, booleanos o mismo funciones. Una propiedad dentro de un objeto sería { key: value }
+en donde key es el nombre de la propiedad y value el valor que se le asigne.
+Métodos: es el nombre que se le da a una función cuando es una propiedad dentro de un objeto. 
+Las propiedades son lo que los objetos tienen y los métodos son lo que los objetos hacen.
+Bucles for...in: es un loop que se puede usar para recorrer las propiedades de un objeto.
+Notación de puntos vs notación de corchetes: la notación de puntos (dot notation) es más simple de usar,
+solo con poner .propiedad luego del objeto ya podría acceder al valor, pero no puedo poner variables, es literal. 
+Con corchetes (bracket notation) usamos el nombre de la propiedad entre comillas (ej: objeto['propiedad']
+pero también nos permite indicar una variable, cuyo valor sea el nombre de la propiedad buscada 
+(ej: var prop = 'propiedad', entonces objeto[prop]).
+

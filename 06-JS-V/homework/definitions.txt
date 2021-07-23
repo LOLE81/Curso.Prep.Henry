@@ -1,0 +1,4 @@
+prototype: es el prototipo de referencia que tiene un objeto. Cuando un objeto creado no tiene alguna porpiedad/método, el intérprete
+va a ir a buscar si su proto la/o tiene.
+Constructors(de Clases): Son las funciones con las que vamos a crear los objetos con datos según un modelo predefinido.
+Son como la fábrica de la plantilla (clase).

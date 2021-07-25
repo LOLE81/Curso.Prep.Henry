@@ -1,0 +1,2 @@
+Funciones Callback: llamamos funciones cb a aquellas funciones que son pasadas como argumentos de otras funciones.
+Luego podemos invocar esas funciones en cualquier momento dentro de la nueva función.
